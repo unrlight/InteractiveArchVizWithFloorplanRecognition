@@ -5,12 +5,12 @@ Interactive ArchViz with floorplan recognition based on Unreal Engine and OpenCV
 
 # Demonstration
 ## Example 1
-The first example shows the possibility of moving through pre-prepared apartments, as well as the possibility of tracking a smartphone in space along 6 axes
+The first example shows the possibility of moving through pre-prepared apartments, as well as the possibility of tracking a smartphone in space along 6 axes (reload page to replay the video)
 
 <img src="Video1.gif" width="600" height="336"/>
 
 # Demonstration
 ## Example 2
-The second example shows how a new three-dimensional model of an apartment is created based on a recognized floor plan photo
+The second example shows how a new three-dimensional model of an apartment is created based on a recognized floor plan photo (reload page to replay the video)
 
 <img src="Video2.gif" width="600" height="336"/>
